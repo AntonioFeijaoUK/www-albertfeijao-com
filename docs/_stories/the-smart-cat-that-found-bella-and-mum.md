@@ -3,7 +3,7 @@ title: The smart cat that found Bella and mum
 layout: default
 date: 2026-03-13
 excerpt: "A smart cat that found Bella and mum."
-cover: /assets/images/stories/smart-cat.jpg
+cover: /assets/images/stories/smart-cat.jpeg
 tags:
   - cat
   - jungle
