@@ -6,7 +6,7 @@ layout: default
 <div class="story-meta">
 Author: Albert Feijao  
 Original story: https://www.albertfeijao.com/the-dragon-who-loved-stars/  
-Licence: CC BY 4.0
+Licence: Creative Commons Attribution 4.0 (CC BY 4.0)
 </div>
 
 Once upon a time, there was a dragon who loved stars more than gold...
