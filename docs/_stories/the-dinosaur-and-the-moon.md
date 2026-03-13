@@ -1,6 +1,13 @@
 ---
 title: The Dragon Who Loved Stars
 layout: default
+date: 2026-03-13
+excerpt: "A curious dinosaur wonders why the moon seems to follow him home."
+cover: /assets/images/stories/dinosaur-moon.jpg
+tags:
+  - dragon
+  - stars
+  - adventure
 ---
 
 <div class="story-meta">
