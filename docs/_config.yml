@@ -1,9 +1,8 @@
-title: "Albert Feijao' stories"
+title: "Albert Feijao stories"
 description: "Stories from a young imagination"
+
 theme: jekyll-theme-midnight
 
-# If using a custom domain such as www.albertfeijao.com
-# keep baseurl empty.
 url: "https://www.albertfeijao.com"
 baseurl: ""
 
@@ -14,16 +13,22 @@ kramdown:
 plugins:
   - jekyll-seo-tag
 
+collections:
+  stories:
+    output: true
+    permalink: /stories/:name/
+
 defaults:
   - scope:
       path: ""
     values:
       layout: default
 
-collections:
-  stories:
-    output: true
-    permalink: /stories/:name/
+  - scope:
+      path: ""
+      type: "stories"
+    values:
+      layout: default
 
 exclude:
   - README.md
