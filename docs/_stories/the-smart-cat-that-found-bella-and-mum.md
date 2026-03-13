@@ -5,7 +5,7 @@ layout: default
 
 <div class="story-meta">
 Author: Albert Feijao  
-Original story: https://www.albertfeijao.com/the-smart-cat-that-found-bella-and-mum/  
+Original story: https://www.albertfeijao.com/stories/the-smart-cat-that-found-bella-and-mum/  
 Licence: Creative Commons Attribution 4.0 (CC BY 4.0)
 </div>
 
