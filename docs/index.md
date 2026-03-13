@@ -15,17 +15,17 @@ You may copy, share, and adapt them, but you must credit the original author and
 ## Stories
 
 <div class="story-list-item">
-  <h2><a href="/smart-cat/">Smart cat</a></h2>
+  <h2><a href="/stories/the-smart-cat-that-found-bella-and-mum/">Smart cat</a></h2>
   <p>A smart cat that found Bella and mum in the jungle.</p>
 </div>
 
 <div class="story-list-item">
-  <h2><a href="/the-dragon-who-loved-stars/">The Dragon Who Loved Stars</a></h2>
+  <h2><a href="/stories/the-dragon-who-loved-stars/">The Dragon Who Loved Stars</a></h2>
   <p>A gentle dragon dreams of reaching the stars instead of guarding gold.</p>
 </div>
 
 <div class="story-list-item">
-  <h2><a href="/the-dinosaur-and-the-moon/">The Dinosaur and the Moon</a></h2>
+  <h2><a href="/stories/the-dinosaur-and-the-moon/">The Dinosaur and the Moon</a></h2>
   <p>A curious dinosaur wonders why the moon seems to follow him home.</p>
 </div>
 
