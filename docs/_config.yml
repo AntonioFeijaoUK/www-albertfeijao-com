@@ -1,0 +1,58 @@
+title: "Stories from a Young Imagination - Albert Feijao"
+description: "A small collection of imaginative children's stories."
+url: "https://antoniofeijao.github.io"
+baseurl: "/www-albertfeijao-com/"
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+locale: en-GB
+markdown: kramdown
+
+name: "Antonio Feijao UK"
+repository: "AntonioFeijaoUK/www-albertfeijao-com/"
+
+collections:
+  stories:
+    output: true
+    permalink: /stories/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "stories"
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: false
+      related: false
+      classes: wide
+
+  - scope:
+      path: ""
+    values:
+      layout: single
+
+navigation:
+  main:
+    - title: "Home"
+      url: /
+    - title: "Stories"
+      url: /stories/
+    - title: "About"
+      url: /about/
+
+footer:
+  links:
+    - label: "Licence"
+      icon: "fas fa-scale-balanced"
+      url: "/about/"
+
+atom_feed:
+  hide: false
+
+sass:
+  style: compressed
