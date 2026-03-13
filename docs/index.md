@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: /
+permalink: https://antoniofeijaouk.github.io/www-albertfeijao-com/
 layout: home
 author_profile: false
 header:
