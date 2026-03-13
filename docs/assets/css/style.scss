@@ -157,3 +157,16 @@ a {
 .site-nav a:hover {
   text-decoration: underline;
 }
+
+
+/* Hide default GitHub Pages footer */
+
+footer {
+  display: none;
+}
+
+/* Hide GitHub project buttons */
+
+#header_wrap .btn {
+  display: none;
+}
