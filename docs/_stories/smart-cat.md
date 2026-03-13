@@ -1,20 +1,13 @@
 ---
-title: "The smart cat that found Bella and mum"
-date: 2026-03-13
-excerpt: "The smart cat that found Bella and mum."
-license: "CC BY 4.0"
-author: "Albert Feijao"
-tags:
-  - cat
-  - jungle
-  - adventure
-  - bedtime
-toc: true
+title: The smart cat that found Bella and mum
+layout: default
 ---
 
-**Author:** Albert Feijao  
-**Original site:** {{ site.url }}{{ site.baseurl }}{{ page.url }}  
-**Licence:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+<div class="story-meta">
+Author: Albert Feijao  
+Original story: https://www.albertfeijao.com/the-smart-cat-that-found-Bella-and-mum/  
+Licence: CC BY 4.0
+</div>
 
 ---
 
