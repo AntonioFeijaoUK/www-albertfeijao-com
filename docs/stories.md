@@ -1,10 +1,14 @@
 ---
-title: "Stories"
+title: Stories
+layout: default
 permalink: /stories/
-layout: collection
-collection: stories
-entries_layout: grid
-author_profile: false
 ---
 
-A collection of imaginative stories for children and families.
+## All Stories
+
+<div class="story-grid">
+  {% assign sorted_stories = site.stories | sort: "date" | reverse %}
+  {% for story in sorted_stories %}
+    {% include story-card.html story=story %}
+  {% endfor %}
+</div>
