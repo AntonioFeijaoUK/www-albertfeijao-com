@@ -5,7 +5,7 @@ layout: default
 
 <div class="story-meta">
 Author: Albert Feijao  
-Original story: https://www.albertfeijao.com/the-dragon-who-loved-stars/  
+Original story: https://www.albertfeijao.com/stories/the-dragon-who-loved-stars/  
 Licence: Creative Commons Attribution 4.0 (CC BY 4.0)
 </div>
 
