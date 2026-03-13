@@ -4,6 +4,11 @@ date: 2026-03-13
 excerpt: "A curious dinosaur wonders whether the moon follows him home."
 license: "CC BY 4.0"
 author: "Albert F."
+tags:
+  - dinosaur
+  - space
+  - adventure
+  - bedtime
 toc: false
 ---
 
