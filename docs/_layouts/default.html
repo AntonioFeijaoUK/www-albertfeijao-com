@@ -24,6 +24,25 @@
           <h1>{{ page.title }}</h1>
         {% endif %}
 
+        {% if page.collection == "stories" %}
+          <div class="story-meta">
+            {% if page.author %}
+              <strong>Author:</strong> {{ page.author }}<br>
+            {% endif %}
+
+            {% if page.date %}
+              <strong>Published:</strong> {{ page.date | date: "%-d %B %Y" }}<br>
+            {% endif %}
+
+            {% if page.licence %}
+              <strong>Licence:</strong> {{ page.licence }}<br>
+            {% endif %}
+
+            <strong>Original story:</strong>
+            <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
+          </div>
+        {% endif %}
+
         {{ content }}
       </main>
     </div>
