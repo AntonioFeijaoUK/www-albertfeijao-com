@@ -1,20 +1,13 @@
 ---
 title: "The Dragon Who Loved Stars"
-date: 2026-03-13
-excerpt: "A gentle dragon looks up at the sky and dreams of reaching the stars."
-license: "CC BY 4.0"
-author: "Albert F."
-tags:
-  - dragon
-  - stars
-  - adventure
-  - bedtime
-toc: false
+layout: default
 ---
 
-**Author:** Albert F.  
-**Original site:** {{ site.url }}{{ site.baseurl }}{{ page.url }}  
-**Licence:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+<div class="story-meta">
+Author: Albert Feijao  
+Original story: https://www.albertfeijao.com/the-dragon-who-loved-stars/  
+Licence: CC BY 4.0
+</div>
 
 ---
 
