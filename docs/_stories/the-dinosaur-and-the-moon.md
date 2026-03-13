@@ -1,16 +1,19 @@
 ---
-title: The Dragon Who Loved Stars
-layout: default
+title: The dinosaur and the moon
+permalink: /stories/the-dinosaur-and-the-moon/
 date: 2026-03-13
 excerpt: "A curious dinosaur wonders why the moon seems to follow him home."
 cover: /assets/images/stories/dinosaur-moon.jpg
+author: "Albert Feijao"
+licence: "CC BY 4.0"
+layout: default
 tags:
-  - dragon
-  - stars
+  - dinosaur
+  - moon
   - adventure
 ---
 
-Once upon a time, there was a dragon who loved stars more than gold...
+Once upon a time, there was a dinasour who loved the moon...
 
 One evening, a small dinosaur noticed something strange.
 
