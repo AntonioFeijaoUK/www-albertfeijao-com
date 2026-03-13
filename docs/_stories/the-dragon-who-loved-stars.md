@@ -4,6 +4,11 @@ date: 2026-03-13
 excerpt: "A gentle dragon looks up at the sky and dreams of reaching the stars."
 license: "CC BY 4.0"
 author: "Albert F."
+tags:
+  - dragon
+  - stars
+  - adventure
+  - bedtime
 toc: false
 ---
 
