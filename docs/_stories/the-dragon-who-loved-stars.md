@@ -1,23 +1,17 @@
 ---
-title: The Dragon Who Loved Stars
-layout: default
-#permalink: /the-dragon-who-loved-stars/
+title: "The Dragon Who Loved Stars"
+#permalink: /stories/the-dragon-who-loved-stars/
 date: 2026-03-13
 excerpt: "A gentle dragon dreams of reaching the stars instead of guarding gold."
 cover: /assets/images/stories/dragon-stars.jpg
+author: "Albert Feijao"
+licence: "CC BY 4.0"
+layout: default
 tags:
   - dragon
   - stars
   - bedtime
 ---
-
-<div class="story-meta">
-Author: Albert Feijao  
-Original story: https://www.albertfeijao.com/stories/the-dragon-who-loved-stars/  
-Licence: Creative Commons Attribution 4.0 (CC BY 4.0)
-</div>
-
-## The Dragon Who Loved Stars
 
 Once upon a time, there was a dragon who did not care much for gold.
 
