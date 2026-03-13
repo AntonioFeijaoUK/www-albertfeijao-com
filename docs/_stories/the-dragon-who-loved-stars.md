@@ -3,7 +3,7 @@ title: "The Dragon Who Loved Stars"
 permalink: /stories/the-dragon-who-loved-stars/
 date: 2026-03-13
 excerpt: "A gentle dragon dreams of reaching the stars instead of guarding gold."
-cover: /assets/images/stories/dragon-stars.jpg
+cover: /assets/images/stories/dragon-stars.jpeg
 author: "Albert Feijao"
 licence: "CC BY 4.0"
 layout: default
