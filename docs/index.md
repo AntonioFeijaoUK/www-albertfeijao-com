@@ -5,7 +5,7 @@ layout: home
 author_profile: false
 header:
   overlay_color: "#222"
-  caption: "Stories imagined by a young storyteller - Albert Feijao"
+  caption: "Stories imagined by a young storyteller"
 ---
 
 Welcome to our small story website.
@@ -17,7 +17,6 @@ You may copy and share them, but please credit the original author and link back
 
 ## Featured Stories
 
-- [Smart cat]({{ '/stories/smart-cat/' | relative_url }})
+- [The Dragon Who Loved Stars]({{ '/stories/the-dragon-who-loved-stars/' | relative_url }})
+- [The Dinosaur and the Moon]({{ '/stories/the-dinosaur-and-the-moon/' | relative_url }})
 - ...
-
-  
