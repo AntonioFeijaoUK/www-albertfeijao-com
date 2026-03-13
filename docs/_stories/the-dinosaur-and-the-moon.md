@@ -1,22 +1,15 @@
 ---
-title: "The Dinosaur and the Moon"
-date: 2026-03-13
-excerpt: "A curious dinosaur wonders whether the moon follows him home."
-license: "CC BY 4.0"
-author: "Albert F."
-tags:
-  - dinosaur
-  - space
-  - adventure
-  - bedtime
-toc: false
+title: The Dragon Who Loved Stars
+layout: default
 ---
 
-**Author:** Albert F.  
-**Original site:** {{ site.url }}{{ site.baseurl }}{{ page.url }}  
-**Licence:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+<div class="story-meta">
+Author: Albert Feijao  
+Original story: https://www.albertfeijao.com/the-dragon-who-loved-stars/  
+Licence: CC BY 4.0
+</div>
 
----
+Once upon a time, there was a dragon who loved stars more than gold...
 
 One evening, a small dinosaur noticed something strange.
 
