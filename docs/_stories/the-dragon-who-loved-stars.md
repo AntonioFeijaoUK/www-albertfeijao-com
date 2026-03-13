@@ -2,6 +2,13 @@
 title: The Dragon Who Loved Stars
 layout: default
 #permalink: /the-dragon-who-loved-stars/
+date: 2026-03-13
+excerpt: "A gentle dragon dreams of reaching the stars instead of guarding gold."
+cover: /assets/images/stories/dragon-stars.jpg
+tags:
+  - dragon
+  - stars
+  - bedtime
 ---
 
 <div class="story-meta">
