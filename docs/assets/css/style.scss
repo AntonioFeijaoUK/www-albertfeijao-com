@@ -170,3 +170,18 @@ footer {
 #header_wrap .btn {
   display: none;
 }
+
+
+/* Centre the main page content */
+
+.outer {
+  display: flex;
+  justify-content: center;
+}
+
+.inner {
+  width: 100%;
+  max-width: 820px;
+  margin: 0 auto;
+}
+
