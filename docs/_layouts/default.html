@@ -20,42 +20,20 @@
 
     <div id="main_content_wrap" class="outer">
       <main id="main_content" class="inner" aria-label="Main content">
+
         {% if page.title %}
           <h1>{{ page.title }}</h1>
         {% endif %}
 
-      {% if page.title %}
-  <h1>{{ page.title }}</h1>
-{% endif %}
+        {% if page.collection == "stories" and page.cover %}
+          <div class="story-cover">
+            <img
+              src="{{ page.cover | relative_url }}"
+              alt="Cover image for {{ page.title }}"
+              loading="lazy">
+          </div>
+        {% endif %}
 
-{% if page.collection == "stories" and page.cover %}
-  <div class="story-cover">
-    <img src="{{ page.cover | relative_url }}" alt="Cover image for {{ page.title }}">
-  </div>
-{% endif %}
-
-{% if page.collection == "stories" %}
-  <div class="story-meta">
-    {% if page.author %}
-      <strong>Author:</strong> {{ page.author }}<br>
-    {% endif %}
-
-    {% if page.date %}
-      <strong>Published:</strong> {{ page.date | date: "%-d %B %Y" }}<br>
-    {% endif %}
-
-    {% if page.licence %}
-      <strong>Licence:</strong> {{ page.licence }}<br>
-    {% endif %}
-
-    <strong>Permanent link:</strong>
-    <a href="{{ page.url | absolute_url }}">Permanent link</a>
-  </div>
-{% endif %}
-
-        
-
-        
         {% if page.collection == "stories" %}
           <div class="story-meta">
             {% if page.author %}
@@ -70,12 +48,13 @@
               <strong>Licence:</strong> {{ page.licence }}<br>
             {% endif %}
 
-            <strong>Original story:</strong>
-            <a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a>
+            <strong>Permanent link:</strong>
+            <a href="{{ page.url | absolute_url }}">Permanent link</a>
           </div>
         {% endif %}
 
         {{ content }}
+
       </main>
     </div>
   </body>
