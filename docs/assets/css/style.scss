@@ -19,6 +19,18 @@ section {
   max-width: 760px;
 }
 
+/* Centre the main page content */
+.outer {
+  display: flex;
+  justify-content: center;
+}
+
+.inner {
+  width: 100%;
+  max-width: 820px;
+  margin: 0 auto;
+}
+
 /* Headings */
 h1, h2, h3, h4 {
   line-height: 1.25;
@@ -38,6 +50,45 @@ ul, ol {
 /* Links */
 a {
   text-decoration: underline;
+}
+
+/* Site header */
+.site-header h1 {
+  margin-bottom: 10px;
+}
+
+.site-header a {
+  text-decoration: none;
+}
+
+/* Navigation bar */
+.site-nav {
+  margin: 20px 0 35px 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.site-nav a {
+  margin-right: 20px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+/* Story cover image on story pages */
+.story-cover {
+  margin: 20px 0 25px 0;
+}
+
+.story-cover img {
+  display: block;
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border-radius: 8px;
 }
 
 /* Story metadata box */
@@ -80,7 +131,6 @@ a {
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1.4rem;
   margin: 1.5rem 0 2rem 0;
-  margin-top: 1.5rem;
 }
 
 /* Story cards */
@@ -140,49 +190,12 @@ a {
   font-weight: 600;
 }
 
-
-/* Navigation bar */
-
-.site-nav {
-  margin: 20px 0 35px 0;
-  padding-bottom: 10px;
-  border-bottom: 1px solid rgba(255,255,255,0.15);
-}
-
-.site-nav a {
-  margin-right: 20px;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.site-nav a:hover {
-  text-decoration: underline;
-}
-
-
 /* Hide default GitHub Pages footer */
-
 footer {
   display: none;
 }
 
 /* Hide GitHub project buttons */
-
 #header_wrap .btn {
   display: none;
 }
-
-
-/* Centre the main page content */
-
-.outer {
-  display: flex;
-  justify-content: center;
-}
-
-.inner {
-  width: 100%;
-  max-width: 820px;
-  margin: 0 auto;
-}
-
