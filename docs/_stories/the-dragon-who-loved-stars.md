@@ -17,7 +17,7 @@ The Dragon who loved stars.
 
 ## prologue
 
-One night a dragon wanted to know what was high up in space.  
+One night, a dragon wanted to know what was high up in space.  
 It was bright white.
 
 ## chapter 1
@@ -27,7 +27,7 @@ The dragon wanted to fly.
 
 ## chapter 2
 
-The dragon tried a trampoling but it just did not work.
+The dragon tried a trampoline, but it just did not work.
 
 ## chapter 3
 
@@ -35,12 +35,12 @@ The dragon asked his mum to teach him to fly.
 
 ## chapter 4
 
-He tried carefully then he could...... fly!  
+He tried carefully, and then he could fly!  
 He got to space.
 
 ## chapter 5
 
-Finally his mum and the dragon got to a star.
+Finally, his mum and the dragon got to a star.
 
 The end.
 
