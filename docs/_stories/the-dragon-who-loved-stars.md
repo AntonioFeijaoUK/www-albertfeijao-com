@@ -2,7 +2,7 @@
 title: "The Dragon Who Loved Stars"
 permalink: /stories/the-dragon-who-loved-stars/
 date: 2026-03-17
-excerpt: "A gentle dragon dreams of reaching the stars instead of guarding gold."
+excerpt: "One night a dragon wanted to know what was high up in space."
 cover: /assets/images/stories/dragon-stars.jpeg
 author: "Albert Feijao"
 licence: "CC BY 4.0"
@@ -35,7 +35,25 @@ The dragon asked his mum to teach him to fly.
 
 ## chapter 4
 
-He tried carefully 
+He tried carefully then he could...... fly!  
+He got to space.
+
+## chapter 5
+
+Finally his mum and the dragon got to a star.
+
+The end.
+
+## fact
+
+....
+
+----
+
+author: "Albert Feijao"  
+licence: "CC BY 4.0"  
+price £9  
+also available at www.albertfeijao.com  
 
 
 
