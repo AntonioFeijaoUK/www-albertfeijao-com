@@ -1,10 +1,10 @@
 title: "Albert Feijao stories"
 description: "Stories from a young imagination"
 
-#theme: jekyll-theme-midnight
-
 url: "https://www.albertfeijao.com"
 baseurl: ""
+
+locale: en_GB
 
 markdown: kramdown
 kramdown:
@@ -29,6 +29,11 @@ defaults:
       type: "stories"
     values:
       layout: default
+
+# SEO / metadata improvements
+author: "Albert Feijao"
+twitter:
+  card: summary
 
 exclude:
   - README.md
