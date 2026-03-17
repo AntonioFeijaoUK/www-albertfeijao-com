@@ -1,7 +1,7 @@
 ---
 title: "The Dragon Who Loved Stars"
 permalink: /stories/the-dragon-who-loved-stars/
-date: 2026-03-13
+date: 2026-03-17
 excerpt: "A gentle dragon dreams of reaching the stars instead of guarding gold."
 cover: /assets/images/stories/dragon-stars.jpeg
 author: "Albert Feijao"
@@ -13,48 +13,30 @@ tags:
   - bedtime
 ---
 
-Once upon a time, there was a dragon who did not care much for gold.
+The Dragon who loved stars.
 
-Most dragons filled their caves with treasure, but this dragon had something different in his cave.
+## prologue
 
-He had a large window carved into the mountain.
+One night a dragon wanted to know what was high up in space.  
+It was bright white.
 
-Every night he would sit beside the window and look up at the sky.
+## chapter 1
 
-Above him were thousands of tiny shining lights.
+The dragon was in a cave, was at the very top of the mountain.  
+The dragon wanted to fly.
 
-The stars.
+## chapter 2
 
-He wondered what they were.
+The dragon tried a trampoling but it just did not work.
 
-Were they tiny fires?
+## chapter 3
 
-Were they distant worlds?
+The dragon asked his mum to teach him to fly.
 
-Or were they secret lanterns hanging in the sky?
+## chapter 4
 
-One evening he decided he would try to fly as high as he could.
+He tried carefully 
 
-Higher than the clouds.
 
-Higher than the tallest mountains.
 
-He flapped his wings and climbed into the night sky.
 
-Up he went.
-
-The air became colder.
-
-The stars became brighter.
-
-But no matter how high he flew, the stars were always a little farther away.
-
-Finally he landed back on his mountain.
-
-He smiled.
-
-The stars were far away, but that did not matter.
-
-They would always be there waiting for him.
-
-And every night, the dragon who loved stars would sit beside his mountain window and look up, dreaming about distant worlds.
